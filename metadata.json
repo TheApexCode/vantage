@@ -1,0 +1,6 @@
+{
+  "name": "VantageStock",
+  "description": "Multi-tenant enterprise inventory management system with isolated tenant storage, role-based access control, CSV bulk ingestion, and cross-tenant analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
